@@ -37,8 +37,4 @@ Nếu cấu hình launch có ánh xạ đường dẫn nguồn từ máy cũ, b�
 
 Sao chép `STUDENTS.CSV` vào thư mục gốc thẻ SD. Không dùng nhật ký của chuyến thật làm dữ liệu mẫu.
 
-## Phạm vi
 
-Đây là mô hình học tập. Số học sinh được suy ra từ quét thẻ hoặc thao tác thủ công; chưa có cảm biến độc lập xác nhận người còn trong xe. Nút CHECKED ghi nhận xác nhận kiểm tra, không chứng minh mọi ghế đã được kiểm tra. Nguồn pin 5 V là phần bổ sung cần kiểm chứng trên phần cứng.
-
-Giữ nguyên thông báo bản quyền và điều kiện sử dụng của các thư viện bên thứ ba trong mã nguồn.
